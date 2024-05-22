@@ -1,0 +1,11 @@
+name: Content Feedback
+description: Provide feedback for exisiting vademecum content.
+labels:
+  - content
+body:
+- type: input
+  id: url
+  attributes:
+    label: Vademecum URL
+    description: What is the page you are referring to?
+    placeholder: https://vademecum.mtrail.io/
