@@ -1,5 +1,6 @@
 name: Content Feedback
 description: Provide feedback for exisiting vademecum content.
+title: Feedback for ...
 labels:
   - content
 body:
