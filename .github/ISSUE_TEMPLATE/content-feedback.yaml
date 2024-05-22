@@ -9,3 +9,7 @@ body:
     label: Vademecum URL
     description: What is the page you are referring to?
     placeholder: https://vademecum.mtrail.io/
+- type: textarea
+  attributes:
+    label: Feedback
+    description: What additions or corrections do you propose?
